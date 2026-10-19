@@ -2,7 +2,7 @@
 
 Trabalho de Arquitetura de Software (Aula 09 — MVC), ULBRA Torres.
 
-**Dupla:** Lucas Roldão Cardoso e Abner Bergmüller Silva da Silva
+**Dupla:** Lucas Roldão Cardoso e [Abner Bergmüller Silva da Silva](https://github.com/abnerbergmuller)
 
 ## O que é
 
